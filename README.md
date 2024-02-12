@@ -16,6 +16,11 @@ $ cd Dbom
 
 $ python cyberbomm.py
 
+# output
+https://github.com/Cyberking12346/Dbom/blob/main/Polish_20240212_173441276.jpg
+
+
+
 
 <h1>README-Generator</h1>
 <h1>D-BOM</h1>
