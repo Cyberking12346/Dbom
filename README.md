@@ -17,7 +17,9 @@ $ cd Dbom
 $ python cyberbomm.py
 
 # output
-https://github.com/Cyberking12346/Dbom/blob/main/Polish_20240212_173441276.jpg
+![image](https://github.com/Cyberking12346/Dbom/assets/158319698/4915bf91-4584-40c3-9ca5-830ded6f6a82)
+
+
 
 
 
